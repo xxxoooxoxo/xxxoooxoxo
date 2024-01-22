@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ali Houssain Sareini](alisareini.com)</h1>
+<h1 align="center">Hi 👋, I'm Ali Houssain Sareini</h1>
 <h3 align="center">Full-Stack Software Engineer interested in Entrepreneurship</h3>
 
 <h3 align="left">Connect with me:</h3>
