@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Houssain Sareini</h1>
+<h1 align="center">Hi 👋, I'm [Ali Houssain Sareini](alisareini.com)</h1>
 <h3 align="center">Full-Stack Software Engineer interested in Entrepreneurship</h3>
-
-- 🔭 I’m currently working on [Nautilus](https://nautilus-app.com/)
-
-- 👨‍💻 All of my projects are available at [alisareini.com](alisareini.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
