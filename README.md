@@ -4,4 +4,3 @@
 <h3 align="left">Connect with me:</h3>
 
 ![linkedin](https://img.shields.io/badge/linkedin-0277b5?style=for-the-badge&logo=linkedin&logoColor=white)
-\
